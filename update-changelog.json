@@ -1,10 +1,8 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 2,
-  "url": "https://github.com/hafridi/nm-merchant-release/releases",
+  "latestVersion": "1.0.0",
+  "latestVersionCode": 1,
+  "url": "https://raw.githubusercontent.com/hafridi/nm-merchant-release/master/nm_update.apk",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "- Initial Commit"
   ]
 }

@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.3.0",
-  "latestVersionCode": 4,
+  "latestVersion": "1.4.0",
+  "latestVersionCode": 5,
   "url": "https://github.com/hafridi/nm-merchant-release/raw/master/nm-update.apk",
   "releaseNotes": [
     "- Minor Bug Fixes",
-    "- Now with the ability to turn on with no hours"
+    "- Now with the ability to turn on with no hours",
+    "- Remove notifications when logout"
   ]
 }

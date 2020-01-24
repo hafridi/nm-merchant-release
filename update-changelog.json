@@ -1,8 +1,10 @@
 {
-  "latestVersion": "1.7.0",
-  "latestVersionCode": 8,
+  "latestVersion": "2.0.0",
+  "latestVersionCode": 9,
   "url": "https://github.com/hafridi/nm-merchant-release/raw/master/nm-update.apk",
   "releaseNotes": [
-    "- Keep screen on at all times"
+    "- Added Google Analytics",
+    "- Fixed Bugs that caused the app to crash",
+    "- Added Crash Handlers"
   ]
 }

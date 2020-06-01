@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.0",
-  "latestVersionCode": 9,
+  "latestVersion": "2.0.1",
+  "latestVersionCode": 10,
   "url": "https://github.com/hafridi/nm-merchant-release/raw/master/nm-update.apk",
   "releaseNotes": [
     "- Added Google Analytics",

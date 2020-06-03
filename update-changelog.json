@@ -1,10 +1,10 @@
 {
-  "latestVersion": "2.0.1",
-  "latestVersionCode": 10,
+  "latestVersion": "2.1.0",
+  "latestVersionCode": 11,
   "url": "https://github.com/hafridi/nm-merchant-release/raw/master/nm-update.apk",
   "releaseNotes": [
-    "- Added Google Analytics",
-    "- Fixed Bugs that caused the app to crash",
-    "- Added Crash Handlers"
+    "- Bug Fixes",
+    "- Added Notification Dialog",
+    "- Cleaner flow"
   ]
 }
